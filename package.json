@@ -1,0 +1,13 @@
+{
+  "name": "umi-max",
+  "version": "1.0.0",
+  "description": "",
+  "bin": {
+    "umi-max": "cli.js"
+  },
+  "dependencies": {
+    "qiankun": "^2.10.12",
+    "umi": "^4.0.74",
+    "umi-plugin-react": "^1.15.9"
+  }
+}
